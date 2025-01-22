@@ -1,0 +1,26 @@
+{
+  "name": "nexawallettowallettransactionexample",
+  "version": "1.0.0",
+  "description": "Simple example on how doing a transaction between 2 Nexa wallets in NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImGettingHold/NexaWalletToWalletTransactionExample.git"
+  },
+  "keywords": [
+    "ImGettingHold",
+    "Nexa",
+    "Transaction",
+    "Wallet",
+    "IGH"
+  ],
+  "author": "ImGettingHold",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ImGettingHold/NexaWalletToWalletTransactionExample/issues"
+  },
+  "homepage": "https://github.com/ImGettingHold/NexaWalletToWalletTransactionExample#readme"
+}
